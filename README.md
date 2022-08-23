@@ -22,7 +22,7 @@ To Create a ToDoList Maker App
 
 ### Preview:
 
-![https://giphy.com/embed/3DQWjFk1eUthMa6OxS](https://im3.ezgif.com/tmp/ezgif-3-799031b3dc.gif)
+![](https://github.com/Kodluyoruz-Gaziantep-Front-End-Bootcamp/odev-2-todolist-fxxerr/blob/main/todo.gif)
 
 
 
